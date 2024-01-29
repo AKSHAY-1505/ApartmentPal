@@ -12,7 +12,7 @@ simplify and digitize residential community management.
 
   1. Provide a seamless platform for residents to pay maintenance fees through UPI, ensuring timely payments.
 
-Efficient Complaint Handling:
+**Efficient Complaint Handling:**
   1. Enable residents to file and track complaints, streamlining communication with society authorities for prompt resolutions.
 
 **Amenity Booking and Management:**
